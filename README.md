@@ -94,5 +94,3 @@ Feel free to open issues or submit pull requests for improvements or bug fixes. 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Make sure to adjust this template according to your specific project details and model performance. It will provide a clear overview of your approach, making it easier for others to understand and build upon your work.
